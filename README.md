@@ -1,5 +1,5 @@
 # Stock-Price-Prediction-Using-RNNs
-#### IIT-B Assignment by "Rakesh Rangadal" &amp; "Lokesh kumar Rajendran"
+#### IIIT-B Assignment by "Rakesh Rangadal" &amp; "Lokesh kumar Rajendran"
 ##### Stock Price Prediction Using RNNs Objective : 
 The objective of this assignment is to try and predict the stock prices using historical data from four companies IBM (IBM), Google (GOOGL), Amazon (AMZN), and Microsoft (MSFT).
 
